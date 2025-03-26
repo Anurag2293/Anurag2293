@@ -4,6 +4,7 @@
 - Building robotics software 🤖
 - Learning new robotics stuff 🤖🤖
 - Learning other stuff (Angular, React Flow, Algorithm Apps) 🔁
+- [Current Side Project](https://typezen.vercel.app/)
 
 ### Open to...
 - Working on something interesting 🤓
@@ -11,6 +12,6 @@
 - New Tom Cruise movie 😎
 
 ### Connect with me...
-- [X](https://www.x.com/ad_codes)
+- [X](https://x.com/ad_codes)
 - [Mail](mailto:anuragdhote392@gmail.com)
-- [Instagram](https://www.instagram.com/anuragrdhote) 
+- [Instagram](https://instagram.com/anuragrdhote) 
