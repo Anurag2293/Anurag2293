@@ -3,7 +3,7 @@
 ### Currently...
 - Building robotics software 🤖
 - Learning new robotics stuff 🤖🤖
-- Learning other stuff (Angular, React Flow, Algorithm Apps) 🔁
+- Learning other stuff (Angular, React Flow, System Design) 🔁
 - [Current Side Project](https://typezen.vercel.app/)
 
 ### Open to...
